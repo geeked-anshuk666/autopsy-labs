@@ -1,0 +1,8 @@
+production:
+  adapter: postgresql
+  pool: 50
+  timeout: 5000
+  max_connections: 100
+  checkout_timeout: 10
+  reaping_frequency: 10
+  # Updated after INC-2026-001 — was pool: 10
