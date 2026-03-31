@@ -21,7 +21,6 @@ Autopsy Labs connects to your Slack and GitHub, fetches real incident data, reas
 - [Getting Started](#getting-started)
 - [Configuration](#configuration)
 - [Project Structure](#project-structure)
-- [Demo](#demo)
 - [Design Decisions](#design-decisions)
 - [Limitations](#limitations)
 - [Roadmap](#roadmap)
@@ -413,14 +412,6 @@ autopsy-labs/
 ```
 
 ---
-
-## Demo
-
-▶️ **[Watch the demo video](YOUR_YOUTUBE_LINK_HERE)**
-
-🔗 **[Try it on Airia Community](YOUR_AIRIA_COMMUNITY_LINK_HERE)**
-
-📄 **[Devpost submission](YOUR_DEVPOST_LINK_HERE)**
 
 ### Sample Output
 
